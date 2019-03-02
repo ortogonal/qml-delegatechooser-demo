@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SettingsModel.qml</file>
+        <file>EmptyDelegate.qml</file>
+        <file>avatar.jpg</file>
+        <file>OwnerDelegate.qml</file>
+        <file>SettingDelegate.qml</file>
+        <file>BoolDelegate.qml</file>
+        <file>StringDelegate.qml</file>
+        <file>SubSectionDelegate.qml</file>
+    </qresource>
+</RCC>
